@@ -1,5 +1,4 @@
 {
-  "files": [],
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
@@ -10,6 +9,7 @@
     "strict": true,
     "noEmit": true,
     "isolatedModules": true,
+    "allowJs": true,
 
     "resolveJsonModule": true,
     "esModuleInterop": true,
